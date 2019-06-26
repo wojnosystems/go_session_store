@@ -1,4 +1,4 @@
-package sessions
+package go_session_store
 
 import (
 	"context"
